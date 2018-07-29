@@ -1,1 +1,1 @@
-# collage_log
+# college_log
